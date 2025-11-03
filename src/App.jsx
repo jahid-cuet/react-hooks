@@ -1,11 +1,11 @@
 // import Counter from './useReducer/Counter';
-import ComplexCounter from './useReducer/ComplexCounter';
+import OptimizedComplexCounter from './useReducer/OptimizedComplexCounter';
 export default function App() {
 
     return (
       <>
              <div>
-                <ComplexCounter />
+                <OptimizedComplexCounter />
             </div>
       </>
             
